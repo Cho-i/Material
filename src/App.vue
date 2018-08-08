@@ -362,7 +362,7 @@ export default {
 </script>
 
 <style>
-  #app{margin:30px;}
+  #app{margin:30px;background:#fff;}
   small{display:block;}
   .phone-viewport {
     width: 322px;
