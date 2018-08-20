@@ -43,7 +43,6 @@
 	</div>
 </template>
 
-
 <script>
 	export default {
 		name: 'content',
@@ -60,5 +59,5 @@
 
 <style>
 a{display:block;padding:5px;color:#000 !important;}
-a:hover{}
+
 </style>
