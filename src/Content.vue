@@ -8,7 +8,7 @@
 				하지만, 모바일 디바이스는 빠르게 진화했습니다. 성능은 훨씬 더 강력해졌고, 속도는 빨라졌고, 보다 직관적으로 사용할 수 있도록 발전하였습니다.<br>이러한 변화에 발맞추어, 구글은 모바일과 데스크탑 그리고 그 외 다양한 디바이스들을 아우르는 하나의 일관된 디자인 가이드라인을 공개하였습니다.<br>바로 머티리얼 디자인 (material design) 입니다. <br>머티리얼 디자인은 질감이 느껴지는 표면 (tactile surfaces) 과 대담하고 선명한 그래픽 디자인 (bold graphic design), 그리고 아름답고 직관적인 사용자 경험을 위한 자연스러운 애니메이션을 특징으로 합니다.<br><br>
 				머티리얼 디자인에서 표면과 그림자는 물리적인 구조를 형성하여, 사용자들이 화면 상의 어떤 부분을 터치할 수 있고 움직일 수 있는지 쉽게 이해할 수 있도록 돕습니다. <br>현대적인 출판물 디자인 원칙이 반영되어 다른 부가 요소보다 컨텐츠 자체가 강조됩니다. <br>모든 움직임에는 의미가 있으며, 화면 요소들 간의 관계를 명확히 하고 세세한 디테일을 통해 사용자에게 이러한 관계를 알려 쥡니다.
 			</p>
-			<iframe width="100%" height="100%" src="https://www.youtube.com/embed/Q8TXgCzxEnw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			<iframe width="100%" height="500" src="https://www.youtube.com/embed/Q8TXgCzxEnw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 			<p>
 				구글은 작은 시계부터 커다란 TV까지 다양한 종류의 디바이스와 화면 크기를 아우를 수 있는 디자인이 필요했습니다. <br>때문에, 다양한 플랫폼에 일관되게 적용될 수 있는 통일된 디자인 가이드라인을 만들었고, 그 결과, 머티리얼 디자인은 안드로이드 웨어 (Android Wear) 와 안드로이드 TV (Android TV) 그리고 안드로이드 오토 (Android Auto) 에 모두 적용되었습니다. <br>구글 디자인 사이트를 방문하시면 자세한 내용을 확인해보실 수 있습니다.<br><br>
 			<strong>안드로이드에서 머리티얼 디자인 적용하기</strong><br>
