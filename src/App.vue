@@ -17,7 +17,7 @@
   import VueRouter from 'vue-router'
 
   const router = new VueRouter({
-    mode:'history',
+    //mode:'history',
     routes:[
       {path:'/sample',component:Sample},
       {path:'/content',component:Content}

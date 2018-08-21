@@ -59,5 +59,5 @@
 
 <style>
 a{display:block;padding:5px;color:#000 !important;}
-
+iframe:not(.md-image){height:500px;}
 </style>
