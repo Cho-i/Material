@@ -2,7 +2,7 @@
   <div id="app">
     <h1>Material UI</h1>
     <ul>
-      <li><router-link to="/content">Content</router-link></li>
+      <li><router-link to="/">Content</router-link></li>
       <li><router-link to="/sample">Sample</router-link></li>
     </ul>
     <div class="view">
@@ -20,7 +20,7 @@
     //mode:'history',
     routes:[
       {path:'/sample',component:Sample},
-      {path:'/content',component:Content}
+      {path:'/',component:Content}
     ]
   });
   export default {
